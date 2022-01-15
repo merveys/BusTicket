@@ -1,5 +1,3 @@
-package DatabaseProject;
-
 import java.util.Vector;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
